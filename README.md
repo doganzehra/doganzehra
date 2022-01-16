@@ -14,7 +14,7 @@ I'm computer engineering student at Istanbul University-Cerrahpaşa
 [gmail]: mailto:doganzehra20@gmail.com
 <br />
 
-![](https://komarev.com/ghpvc/?username=doganzehra)
+![](https://komarev.com/ghpvc/?username=doganzehra&color=blueviolet)
 
 <!--
 **doganzehra/doganzehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
