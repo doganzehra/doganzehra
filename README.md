@@ -1,6 +1,8 @@
 # Hi there, I'm Zehra 👋
 I'm computer engineering student at Istanbul University-Cerrahpaşa
+<br />
 ![](https://komarev.com/ghpvc/?username=doganzehra&color=blueviolet)
+<br />
 
 ### 📫 How to reach me: doganzehra20@gmail.com
 
@@ -17,9 +19,9 @@ I'm computer engineering student at Istanbul University-Cerrahpaşa
 [gmail]: mailto:doganzehra20@gmail.com
 <br />
 
-# Some stats staff:
+## Some stats staff:
 [![Zehra's GitHub stats](https://github-readme-stats.vercel.app/api?username=doganzehra)](https://github.com/doganzehra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doganzehra)](https://github.com/doganzehra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doganzehra)]
 
 <!--
 **doganzehra/doganzehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
