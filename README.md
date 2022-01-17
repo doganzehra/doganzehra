@@ -1,6 +1,7 @@
 # Hi there, I'm Zehra 👋
 I'm computer engineering student at Istanbul University-Cerrahpaşa
 <br />
+<br />
 ![](https://komarev.com/ghpvc/?username=doganzehra&color=blueviolet)
 <br />
 
@@ -21,7 +22,6 @@ I'm computer engineering student at Istanbul University-Cerrahpaşa
 
 ## Some stats staff:
 [![Zehra's GitHub stats](https://github-readme-stats.vercel.app/api?username=doganzehra)](https://github.com/doganzehra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doganzehra)]
 
 <!--
 **doganzehra/doganzehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
