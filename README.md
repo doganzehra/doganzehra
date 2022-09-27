@@ -36,7 +36,8 @@
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://github.com/doganzehra/doganzehra/blob/main/databases_and_tools/redis.svg" alt="redis" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/doganzehra/doganzehra/blob/main/databases_and_tools/spring.svg" alt="spring" width="40" height="40"/> </a> 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/doganzehra/doganzehra/blob/main/databases_and_tools/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"><img alt="firebase" src="https://github.com/doganzehra/doganzehra/blob/main/databases_and_tools/firebase.svg" width="40" /></a>
+<a href="https://www.elastic.co/" target="_blank"><img alt="firebase" src="https://github.com/doganzehra/doganzehra/blob/main/databases_and_tools/firebase.svg" width="40" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img alt="elasticsearch" src="https://github.com/doganzehra/doganzehra/blob/main/databases_and_tools/elastic-elasticsearch.svg" width="40" /></a>
 <a href="https://git-scm.com/" target="_blank"><img alt="git" src="https://github.com/doganzehra/doganzehra/blob/main/databases_and_tools/git.svg" width="40" /></a>
 </p>
 
