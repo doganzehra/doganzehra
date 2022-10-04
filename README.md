@@ -17,7 +17,7 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/doganzehra/doganzehra/blob/main/languages_icon/java.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/doganzehra/doganzehra/blob/main/languages_icon/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"><img alt="react" src="https://github.com/doganzehra/doganzehra/blob/main/languages_icon/reactjs.svg" width="40" /></a>
+<!--<a href="https://reactjs.org/" target="_blank"><img alt="react" src="https://github.com/doganzehra/doganzehra/blob/main/languages_icon/reactjs.svg" width="40" /></a>-->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="javascript" src="https://github.com/doganzehra/doganzehra/blob/main/languages_icon/javascript.svg" width="40" /></a>
 <a href="https://www.php.net" target="_blank"><img alt="php" src="https://github.com/doganzehra/doganzehra/blob/main/languages_icon/php.svg" width="40" /></a>
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/doganzehra/doganzehra/blob/main/languages_icon/html5.svg" alt="html5" width="40" height="40"/> </a> 
