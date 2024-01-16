@@ -23,7 +23,6 @@
 <h3 align="left">Databases and Tools:</h3>
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/doganzehra/doganzehra/blob/main/databases_and_tools/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/doganzehra/doganzehra/blob/main/databases_and_tools/mysql.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/doganzehra/doganzehra/blob/main/databases_and_tools/oracle.svg" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/doganzehra/doganzehra/blob/main/databases_and_tools/postgresql.svg" alt="postgresql" width="40" height="40"/> </a> 
